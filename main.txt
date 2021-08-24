@@ -1,1 +1,2 @@
 clone web-skills repository
+새로운 기능을 추가하기 전 단계 - 완성되어있어야 함.
